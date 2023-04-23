@@ -5,7 +5,7 @@ and login procedure build with MVC for users display.
 
 *Note:
 
-- for runing the app first run GalconOrderssSystem and then run Login (It's optional) for upload the UI for login form and products page.an
+- for runing the app first run GalconOrderssSystem and then run Login (It's optional) for upload the UI for login form and products page.
 - Using the login page UI use admin or Yuval for user and 1234 for password.
 - Checking the functionality only can run only GalconOrdersSystem and work use Swagger.
 
