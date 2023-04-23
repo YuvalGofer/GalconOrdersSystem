@@ -1,7 +1,7 @@
 # Galcon Orders System
 
 This WEB API represents an orders products system that can implement CRUD operation secure by token
-and login procedure for users.
+and login procedure build with MVC for users display.
 
 *Note:
 
